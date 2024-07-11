@@ -1,0 +1,1 @@
+but we need to note that the drag increases with its surface area and velocity

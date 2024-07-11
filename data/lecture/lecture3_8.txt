@@ -1,0 +1,1 @@
+in order to predict which one hits the ground first we need to consider their terminal velocity
