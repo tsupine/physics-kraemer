@@ -1,0 +1,1 @@
+let's start with our falling basketballs as it was evident at the time the two balls are not dropped simultaneously taking a frame from a video clip we can see this clearly and quantify the lag the small basketball was dropped about seven frames about two hundreds and thirty four milliseconds later than the big basketball let's watch this video again

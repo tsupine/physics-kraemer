@@ -1,0 +1,1 @@
+every falling object in air will attain a terminal velocity
