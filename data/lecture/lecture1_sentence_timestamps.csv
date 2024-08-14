@@ -1,0 +1,85 @@
+,sentence,onset,offset
+0,good day to you,0.96,1.48
+1,were here in location,1.96,2.97
+2,and were here today to  recreate a famous experiment in the history of physics  experiment where galileo  dropped a  cannon ball  off the leaning tower  of pisa,3.06,12.79
+3,so were going to be dropping a several things off of a tall building today,14.105986394557824,17.745986394557825
+4,and one of the things we will be doing is we will be  dropping a basketballs of different sizes  from  the buildings,18.045986394557826,24.105986394557824
+5,ah this is a standard to regulation basketball over here,24.105986394557824,27.245986394557825
+6,and this is a smaller basketball about one sixth of the size and note that  the major difference in diameter,27.615986394557822,33.30598639455782
+7,thats going to be important in our explanation,33.30598639455782,35.58598639455782
+8,and then well be doing another drop of these two balls right  here,36.84498866213152,39.92498866213152
+9,this is a standard issue of golf ball,39.92498866213152,41.59498866213152
+10,and this is a so called golf  practice ball  over here,41.93498866213152,44.48498866213152
+11,were also going to be making  physics fruit salad today,45.50498866213152,48.20498866213152
+12,and were going to be dropping  several different kinds of fruit off of the  off of the  off of the building to see what happens,48.41498866213152,54.30498866213152
+13,we will be dropping some large watermelons here,55.21498866213152,57.31498866213152
+14,this is a seedless watermelon it weighs about twelve pounds or so,57.60498866213152,60.77498866213152
+15,this is a mini watermelon it weighs about has about half the way to weighs about  five to six  pounds or so,61.46498866213152,67.05498866213152
+16,and then  in combinations that will also be  dropping  different fruits of their smaller,67.51498866213151,72.74498866213152
+17,for example we will be dropping  a lemon,72.74498866213152,74.51498866213151
+18,so  thats the background behind what well be doing,75.26498866213151,77.47498866213152
+19,and now  all we need  to do  is we need this building  to drop  the fruits off,77.83498866213152,82.5
+20,the next time that they were going to drop will be  a  large watermelon  and a small watermelon,92.04199546485262,97.99199546485262
+21,okay guys get ready,98.0219954648526,99.2819954648526
+22,ready  drop  on cue,99.68199546485262,101.5619954648526
+23,now that had a rather spectacular end but again you saw that they came down at different speeds,106.3319954648526,110.71199546485262
+24,again then well have to analyze much more closely  to be able to hook to  park out whats going on,110.71199546485262,116.2819954648526
+25,but they did  come down at different speeds,116.2819954648526,118.87199546485262
+26,so lets analyze these data,121.28698412698414,122.60698412698412
+27,one of the problems with this experiment  and with galileos  is that things happened so quickly,123.28698412698414,127.51698412698413
+28,the time of flight  if you can call it that from the top of the building to the bottom is about 2 seconds,128.03698412698412,132.39698412698414
+29,this means a small variations in things like time of release can produce large apparent changes in the outcome  at the end,132.92698412698414,138.63698412698415
+30,the trick is to analyze the motion so that these other things can be minimized,139.17698412698414,142.63698412698415
+31,this is where modern technology comes to the rescue,143.5829931972789,145.72299319727892
+32,modern video cameras are essentially very fast still cameras  stringing together sequential images at a rate of about thirty frames per second,146.41299319727892,153.66299319727892
+33,our eyes can only process images it at a rate of about fifteen to twenty frames per second,154.47299319727892,158.90299319727893
+34,this is why the faster sequences in a video clip appear to us as smooth motion,159.45299319727891,163.6129931972789
+35,but with the appropriate technology we can take this video clips  and analyzed them in frame by frame  so that we can follow a motion to a resolution of about thirty three milliseconds per frame,164.8629931972789,173.9929931972789
+36,its not perfect but its better than our eyes can do,174.51299319727892,176.81299319727893
+37,that is exactly what were going to do,177.6429931972789,179.22299319727892
+38,we will follow time of flight of falling bodies  and use our technology to correct for whatever complications we can,179.8329931972789,185.59299319727893
+39,here were going to be dropping objects that have similar densities but different diameters,188.8179818594104,192.6379818594104
+40,large watermelon  versus small watermelon,193.0079818594104,195.12798185941045
+41,first lets see what happens with the watermelons,196.07598639455784,197.9859863945578
+42,again there was a slight delay in releasing the small melon,198.43598639455783,201.25598639455785
+43,but correcting for that we see a result satisfyingly close to what galileo  said we should find,201.5859863945578,206.15598639455783
+44,despite one weighing about half the other  theres virtually no difference in time of flight,206.57598639455784,210.82598639455784
+45,why do they hit the ground at the same time,217.10498866213152,219.32498866213152
+46,because both were quite large and heavy  gravity was a larger force acting on them throughout the fall,219.9849886621315,225.6949886621315
+47,of course due to the difference in sizes they had different drag  but its negligible compared to the difference in their mass,226.4349886621315,233.66498866213152
+48,then why they are falling at almost the same rate  even if they have different masses,234.4029931972789,238.7529931972789
+49,why doesnt greater mass make the large watermelon fall any faster,239.3629931972789,243.1529931972789
+50,the answer is inertia,245.98,247.55
+51,the large watermelon  clearly has more mass  but it also has more inertia  which means  it is also more sluggish,248.19,255.96
+52,small watermelon has less mass  but its  easy to move,256.5589795918367,260.4389795918367
+53,and whats really important is that  the ratio force to inertia  is the same for all objects,260.9889795918367,267.2189795918367
+54,although there was a slight delay in releasing the small melon  you can see theyre falling at the same rate,268.3529931972789,274.21299319727893
+55,despite one weighing about half the other  when the air resistance is negligible  there is virtually no difference in time of flight,274.6629931972789,283.1929931972789
+56,the next object that were going to drop  will be the two basketballs of different sizes,292.32897959183674,296.19897959183675
+57,and you can see them up there in the window of our insectary here,296.5289795918368,299.81897959183675
+58,and on my signal  theyre going to drop them,300.1789795918367,302.7289795918367
+59,ready  drop,302.8589795918367,304.2989795918367
+60,and what you saw there was that the  balls came down at positions part of that was due to being released at slightly different times,314.0,321.2489795918367
+61,we  can correct for that when we analyze the motions a little bit later,321.2489795918367,325.32897959183674
+62,lets start with our falling basketballs,329.4639909297052,331.1839909297052
+63,as it was evident at the time  the two balls are not dropped simultaneously,331.7239909297052,335.1939909297052
+64,taking a frame from a video clip we can see this clearly  and quantify the lag,335.8639909297052,339.6339909297052
+65,the small basketball  was dropped about seven frames  about two hundreds and thirty four milliseconds  later  than the big basketball,340.0739909297052,346.7039909297052
+66,lets watch this video again,347.2339909297052,348.5239909297052
+67,you can see the flight of the two balls is very similar but not quite,350.0569841269841,353.0869841269841
+68,specifically the small basketball falls a little faster  about sixty seven milliseconds faster to be precise  than the large basketball does,353.5669841269841,361.1969841269841
+69,now we need to think about  air resistance and how it affects falling objects,368.7029931972789,373.1929931972789
+70,first  how much does it slow down the object,375.7649886621315,378.53498866213147
+71,there are two major factors that affect air resistance,379.0449886621315,381.8149886621315
+72,surface area  and velocity,382.2049886621315,384.4849886621315
+73,if you think about the size of a parachute  you can understand the larger one  will experience greater air resistance,385.4549886621315,392.1149886621315
+74,and if you ever have stuck your  arm  out of the window in a moving car  you will feel a lot more drag when the car is moving fast,392.3149886621315,399.5749886621315
+75,either way makes you encounter more air molecules  and increases  air resistance,400.2449886621315,405.3749886621315
+76,so  going back to the basketballs  they were accelerating at the same rate,406.9789795918367,411.7589795918367
+77,but  air resistance  was greater  for a large basketball  so this difference  made small basketball fall faster,412.2089795918367,419.3489795918367
+78,then why didnt we take into account  air resistance in the watermelons,421.3639909297052,424.7739909297052
+79,because of their large momentum,425.1639909297052,427.0739909297052
+80,the larger the mass  the larger the momentum  and the more force you need to change its motion,427.5439909297052,433.3039909297052
+81,but the force of  air resistance depends on its surface  area  and velocity,434.55199546485255,439.1319954648525
+82,it does not depend on the mass,439.5819954648526,441.37199546485255
+83,so  in watermelon experiments  air resistance  is a relatively insignificant  compared to their large momentum  and it doesnt change their motion that much,442.0219954648526,453.12199546485255

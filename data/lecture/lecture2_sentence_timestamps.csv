@@ -1,0 +1,47 @@
+,sentence,onset,offset
+0,the  next objects we will drop will be the golf ball  and the small wiffle ball,3.5,8.39
+1,ready ron  drop  now,8.97,10.54
+2,as  youve seen the two balls come down at remarkably different  speeds,16.1,20.06
+3,and well have to analyze this more carefully to see if a size makes a difference,20.06,24.34
+4,but  you see the point consistently  heavier balls do actually fall faster than the lighter balls  as long as theyre in the same diameter,24.34,31.41
+5,and now for the golf ball  and practice golf ball,36.10299319727891,38.16299319727891
+6,there was a slight lag in release time,38.88299319727891,40.55299319727891
+7,but when we correct for that  and measure the time of flight we again see that the light practice ball  falls considerably slower than the golf ball,40.84299319727892,47.50299319727891
+8,i think were beginning to see a pattern here,48.23299319727891,49.83299319727891
+9,all right  here the concept of terminal velocity becomes very important,54.97399092970522,59.74399092970522
+10,weve learned that there are two major forces  acting on a falling object,60.38399092970521,64.13399092970522
+11,gravity  and air resistance,64.61399092970521,66.61399092970521
+12,lets see how they change throughout the fall,67.06399092970521,69.17399092970521
+13,as an object falls through a viscous fluid  initially  it will be the force of gravity  that is the  objects weight  that will dominate,69.90399092970522,78.38399092970522
+14,and an object will accelerate at a constant rate,79.04399092970522,81.85399092970522
+15,as it does so however  air resistance  increases with its velocity,82.40399092970522,87.46399092970522
+16,therefore  there will be some speed  at which the gravitational force  is  exactly  offset by the drag force,88.5429932,95.91299319727892
+17,here  theres no net transfer of momentum between the object and  air,96.76099773,101.1509977324263
+18,there is no net  acceleration,101.6809977324263,103.61099773242633
+19,and the body falls at a constant speed,104.06099773242632,106.3409977324263
+20,this is the terminal velocity,106.86099773242633,108.61099773242633
+21,this explains why  objects of similar size with different weights  follow different rates,109.43598639455784,115.04598639455784
+22,the forces on a lighter  object will come to the equilibrium  at a slower speed  than they would for a heavier  object,115.60598639455785,122.45598639455784
+23,this is why the practice golf ball falls slower  than the regulation golf ball,123.00598639455782,127.40598639455784
+24,as you can see here  the lighter practice ball stop accelerating immediately  and fell at a constant speed,129.35498866213152,136.77498866213153
+25,this is because  at this  point  air resistance increased enough  to balance  its gravitational force,138.4429931972789,146.1129931972789
+26,so the net force acting on this  became zero  and it fell at a constant speed  which is called terminal velocity,146.5629931972789,155.0029931972789
+27,however  at the same time  the heavier golf ball  which had  greater downward force  was still accelerating,157.53798185941042,165.45798185941044
+28,because heavier ball require more  air resistance to balance  its gravitational force  it reaches its terminal velocity later than the lighter one,166.20798185941044,175.64798185941044
+29,okay the next object that were going to drop will be a large watermelon and a lemon,189.24498866213156,192.62498866213156
+30,okay guys,193.42498866213157,194.16498866213152
+31,ready  ready  drop,194.43498866213156,196.40498866213156
+32,that was interesting,201.4869841269841,202.3369841269841
+33,it looks like the lemon actually came down faster,203.03698412698407,206.03698412698407
+34,here we see something very interesting,212.96299319727893,214.6629931972789
+35,the lemon  initially falls faster  but during the latter part of the flight  the larger melon catches up to it  and both hit the ground at the same time,215.1729931972789,222.0129931972789
+36,very interesting indeed,222.5429931972789,223.84299319727893
+37,every falling object in air will attain a terminal velocity,228.98498866213157,232.52498866213156
+38,the only question is  at what speed this  occurs,233.10698412698417,236.52698412698416
+39,and this will depend in part of weight  and in part of the viscous interaction  of the body with the air,237.03698412698412,243.13698412698415
+40,lets go back to the watermelon experiment,245.49000000000004,247.85
+41,they were quite heavy  neither of them reached terminal velocity before they hit the ground,248.54698412698417,253.68698412698416
+42,if we had threw them at  a taller building  both would have reached terminal velocity  with a large melon falling slightly faster than the small melon,254.49698412698416,263.13698412698415
+43,for the lemon versus melon  the lemons  overall lower drag  resulted in a faster initial fall,264.0779818594105,270.3179818594105
+44,but because the lemon was lighter  it reached terminal velocity about halfway through the fall,270.7679818594105,276.3379818594105
+45,at this point the melon  its motion still being accelerated by gravity  caught up with the lemon at the end,277.15000000000003,284.62000000000006
